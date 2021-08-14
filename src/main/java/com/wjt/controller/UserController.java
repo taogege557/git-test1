@@ -8,6 +8,7 @@ public class UserController {
         System.out.println("push two test");
         System.out.println("push two test");
         System.out.println("push two test");
+        System.out.println("push three test");
 
     }
 }
