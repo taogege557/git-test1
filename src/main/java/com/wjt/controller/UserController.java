@@ -6,6 +6,8 @@ public class UserController {
         System.out.println("hot_fix test");
         System.out.println("push test");
         System.out.println("push two test");
+        System.out.println("push two test");
+        System.out.println("push two test");
 
     }
 }
